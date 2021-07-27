@@ -3954,8 +3954,8 @@ return sendMsg(msg.chat_id_,msg.id_,dr[math.random(#dr)])
 elseif not msg.SudoUser and Text==" بوت" or Text == "بوت" then
 return 
 sendMsg(msg.chat_id_,msg.id_,nnn[math.random(#nnn)]) 
-elseif Text== "سونيك" or Text== "سوني" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس داني↯](https://t.me/UU_IV)")
-elseif Text== "باسل اباظه"  then return sendMsg(msg.chat_id_,msg.id_,"[مطور السورس](https://t.me/XB_1B)")
+elseif Text== "ammar" or Text== "عمار" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس داني↯](https://t.me/XXUUU)")
+elseif Text== "تايلر"  then return sendMsg(msg.chat_id_,msg.id_,"[مطور السورس](https://t.me/XXUUU)")
 elseif Text== "عماركو"  then return sendMsg(msg.chat_id_,msg.id_,"[مالك السورس↯](https://t.me/XXUUU)")
 elseif Text== "اغاني" or Text== "الاغاني" then return  sendMsg(msg.chat_id_,msg.id_,"[@YTOOTY_BOT + اسم الاغنية]")
 elseif Text== "رفع غبي"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم رفع الغبي بنجاح↯\n• تمت إضافته إلى قائمه الأغبياء\n☆")
